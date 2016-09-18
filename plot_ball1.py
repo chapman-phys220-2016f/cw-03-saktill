@@ -17,6 +17,7 @@ def getVTY():
     an array of 100 times, and an array of 100 data points (y values).
     This function returns a list l = [v, t, y]."""
     #creates an array for v based on user input, split at the comma
+    
     v = np.array([float(i) for i in raw_input("Enter your list of v_0's, separated by commas: ").split(",")])
     
     #creates an array of arrays, where each elemental array is a set of t's
@@ -27,10 +28,7 @@ def getVTY():
     #y[i]=vf(t[i], v)
     vf = np.vectorize(f)
     y = np.asarray([vf(t[i], v[i]) for i in range(len(v))])
-    l = [v, t, y]
-    return l
-
-print getVTY()
+    return v, t, y
 
 def plot1(v, t, y):
     """This function takes input in the form of v=array, t=array of arrays,
