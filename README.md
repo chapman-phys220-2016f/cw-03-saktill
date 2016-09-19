@@ -2,7 +2,7 @@
 
 **Author(s):** _\<Saktill>_
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-03-Saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-03-Saktill)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-03-saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-03-saktill)
 
 **Due date:** 2016/09/20
 
