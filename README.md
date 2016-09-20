@@ -25,7 +25,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Again, this assignment got us more comfortable with both creating python modules for mathematical code and with using Jupyter to present said code, or said math function. In particular, although none of the files included in this assignment have test_functions, trying in vain to make them for our code did help us to write better code. However, everything Sakthi and I talked to you about will be applied to future assignments, as doing that will be much more productive than trying to go back and fix our code to make it testable; which I suppose is actually a pretty solid argument for using the tests from the beginning. 
 
 ## Honor Pledge
 
